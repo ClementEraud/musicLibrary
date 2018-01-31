@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getSongsFromRepo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "audio-metadata": "^0.3.0",
+    "lodash": "^4.17.4",
+    "readdirp": "^2.1.0"
+  }
+}
